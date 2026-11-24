@@ -1,0 +1,214 @@
+id,operator,planName,price,validityDays,dataPerDayGb,totalDataGb,smsPerDay,voice,fiveG,ott,roaming,category,source,highlight
+bsnl-153,BSNL,BSNL Monthly Voucher 153,153,24,1,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,1 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-147,BSNL,BSNL Monthly Voucher 147,147,24,,5,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,5 GB total data + Unlimited voice calls.
+bsnl-199,BSNL,BSNL Monthly Voucher 199,199,28,2,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-225,BSNL,BSNL Monthly Voucher 225,225,30,2.5,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,2.5 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-247,BSNL,BSNL Monthly Voucher 247,247,30,,50,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,50 GB total data + 100 SMS/day + Unlimited voice calls.
+bsnl-299,BSNL,BSNL Monthly Voucher 299,299,30,3,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,3 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-229,BSNL,BSNL Monthly Voucher 229,229,30,2,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls for 1 month.
+bsnl-239,BSNL,BSNL Monthly Voucher 239,239,30,2,,,Unlimited,FALSE,,TRUE,Monthly Voucher,uploaded,2 GB/day + 100 SMS/day + Unlimited voice + Rs 10 talk value.
+bsnl-411,BSNL,BSNL Data Voucher 411,411,60,,100,,No Voice,FALSE,,TRUE,Data Pack,uploaded,100 GB total data add-on.
+bsnl-198,BSNL,BSNL Data Voucher 198,198,30,,40,,No Voice,FALSE,,TRUE,Data Pack,uploaded,40 GB total data add-on.
+bsnl-105,BSNL,BSNL Data Voucher 105,105,7,,20,,No Voice,FALSE,,TRUE,Data Pack,uploaded,20 GB total data booster.
+bsnl-58,BSNL,BSNL Data Voucher 58,58,7,,8,,No Voice,FALSE,,TRUE,Data Pack,uploaded,8 GB total data booster.
+bsnl-16,BSNL,BSNL Data Voucher 16,16,1,,2,,No Voice,FALSE,,TRUE,Data Pack,uploaded,2 GB total data booster for 1 day.
+bsnl-347,BSNL,BSNL STV 347,347,50,2,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-319,BSNL,BSNL Voice Voucher 319,319,60,,10,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,10 GB total data + 300 SMS + Unlimited voice calls.
+bsnl-485,BSNL,BSNL STV 485,485,72,2,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-599,BSNL,BSNL STV 599,599,70,3,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,3 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-997,BSNL,BSNL PV 997,997,150,2,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-897,BSNL,BSNL PV 897,897,165,,24,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,24 GB total data + 100 SMS/day + Unlimited voice calls.
+bsnl-107,BSNL,BSNL Freebie 107,107,20,,3,,200 Mins,FALSE,,TRUE,Voucher,uploaded,200 Minutes Voice + 3 GB total data.
+bsnl-197,BSNL,BSNL Freebie 197,197,35,,5,,300 Mins,FALSE,,TRUE,Voucher,uploaded,300 Minutes Voice + 5 GB total data + 100 SMS.
+bsnl-99,BSNL,BSNL Voice 99,99,14,,,,Unlimited,FALSE,,TRUE,Voice Voucher,uploaded,Unlimited Voice calls.
+bsnl-439,BSNL,BSNL Voice 439,439,80,,,,Unlimited,FALSE,,TRUE,Voice Voucher,uploaded,Unlimited Voice calls + 300 SMS.
+bsnl-1499,BSNL,BSNL Annual 1499,1499,300,,32,,Unlimited,FALSE,,TRUE,Annual,uploaded,32 GB total data + 100 SMS/day + Unlimited voice calls.
+bsnl-1999,BSNL,BSNL Annual 1999,1999,330,1.5,,,Unlimited,FALSE,,TRUE,Annual,uploaded,1.5 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-2399,BSNL,BSNL Annual 2399,2399,365,2,,,Unlimited,FALSE,,TRUE,Annual,uploaded,2 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-2799,BSNL,BSNL Annual 2799,2799,365,3,,,Unlimited,FALSE,,TRUE,Annual,uploaded,3 GB/day + 100 SMS/day + Unlimited voice calls.
+bsnl-28,BSNL,BSNL BiTV South Lite,28,30,,,,No Voice,FALSE,South Lite Pack (7 OTTs),TRUE,BiTV Pack,uploaded,South Lite bundle with 7 OTT channels.
+bsnl-29,BSNL,BSNL BiTV Lite Pack,29,30,,,,No Voice,FALSE,Lite Pack (7 OTTs),TRUE,BiTV Pack,uploaded,North/East/West Lite bundle with 7 OTT channels.
+bsnl-151,BSNL,BSNL BiTV National Power,151,30,,,,No Voice,FALSE,National Power Pack (17 OTTs);9 Complimentary OTTs,TRUE,BiTV Pack,uploaded,National Power pack with 17 OTTs + 9 complimentary OTTs.
+jio-299,Jio,Jio Truly Unlimited 299,299,28,1.5,,,Unlimited,TRUE,,TRUE,Truly Unlimited,uploaded,1.5 GB/day with Unlimited voice and 5G data.
+jio-249,Jio,Jio Truly Unlimited 249,249,28,1,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1 GB/day with Unlimited voice calls.
+jio-189,Jio,Jio Truly Unlimited 189,189,28,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,2 GB total data with Unlimited voice calls.
+jio-3999,Jio,Jio True 5G 3999,3999,365,2.5,,,Unlimited,TRUE,FanCode;JioCinema Premium;Netflix,TRUE,True 5G Unlimited,uploaded,"Unlimited 5G + 2.5 GB/day with FanCode, Netflix, and JioCinema."
+jio-3599,Jio,Jio True 5G 3599,3599,365,2.5,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2.5 GB/day annual pack with Jio Suite.
+jio-2025,Jio,Jio True 5G 2025,2025,200,2.5,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2.5 GB/day for 200 days with Jio Suite.
+jio-1799,Jio,Jio True 5G 1799,1799,84,3,,,Unlimited,TRUE,Netflix Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 3 GB/day for 84 days with Netflix Mobile.
+jio-1299,Jio,Jio True 5G 1299,1299,84,2,,,Unlimited,TRUE,Netflix Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 84 days with Netflix Mobile.
+jio-1199,Jio,Jio True 5G 1199,1199,84,3,,,Unlimited,TRUE,SonyLIV;ZEE5,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 3 GB/day with SonyLIV and ZEE5.
+jio-1049,Jio,Jio True 5G 1049,1049,84,2,,,Unlimited,TRUE,SonyLIV;ZEE5,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day with SonyLIV and ZEE5.
+jio-1029,Jio,Jio True 5G 1029,1029,84,2,,,Unlimited,TRUE,Amazon Prime Lite,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day with Amazon Prime Lite.
+jio-1028,Jio,Jio True 5G 1028,1028,84,2,,,Unlimited,TRUE,Swiggy One Lite,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day with Swiggy One Lite and ₹50 cashback.
+jio-999,Jio,Jio True 5G 999,999,98,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 98 days with JioHotstar Mobile.
+jio-949,Jio,Jio True 5G 949,949,84,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day with JioHotstar Mobile.
+jio-899,Jio,Jio True 5G 899,899,90,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 90 days with JioHotstar Mobile.
+jio-859,Jio,Jio True 5G 859,859,84,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 84 days with JioHotstar Mobile.
+jio-749,Jio,Jio True 5G 749,749,72,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 72 days with JioHotstar Mobile.
+jio-719,Jio,Jio True 5G 719,719,70,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 70 days with JioHotstar Mobile.
+jio-629,Jio,Jio True 5G 629,629,56,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day for 56 days with JioHotstar Mobile.
+jio-449,Jio,Jio True 5G 449,449,28,3,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 3 GB/day for 28 days with Jio Suite.
+jio-459,Jio,Jio Youth & Gaming 459,459,84,1.5,,,Unlimited,TRUE,Gaming Partner Benefits,TRUE,Youth & Gaming,uploaded,Gaming-focused pack with 1.5 GB/day for 84 days.
+jio-450,Jio,Jio True 5G 450,450,28,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,True 5G Unlimited,uploaded,Unlimited 5G + 2 GB/day with JioHotstar Mobile.
+jio-445,Jio,Jio Entertainment 445,445,28,2,,,Unlimited,TRUE,10 OTTs Bundle,TRUE,Entertainment,uploaded,2 GB/day with 10 bundled OTT channels.
+jio-399,Jio,Jio Sports & Gaming 399,399,28,2.5,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,Truly Unlimited,uploaded,"2.5 GB/day with Sports, Gaming, and Movies highlights."
+jio-889,Jio,JioSaavn Pro 889,889,84,1.5,,,Unlimited,TRUE,JioSaavn Pro,TRUE,JioSaavn Pro,uploaded,1.5 GB/day with JioSaavn Pro subscription for 84 days.
+jio-329,Jio,JioSaavn Pro 329,329,28,1.5,,,Unlimited,TRUE,JioSaavn Pro,TRUE,JioSaavn Pro,uploaded,1.5 GB/day with JioSaavn Pro subscription for 28 days.
+jio-195,Jio,JioHotstar Data 195,195,30,,15,,No Voice,FALSE,JioHotstar Mobile,TRUE,JioHotstar,uploaded,15 GB total data pack with JioHotstar Mobile.
+jio-100,Jio,JioHotstar Data 100,100,30,,6,,No Voice,FALSE,JioHotstar Mobile,TRUE,JioHotstar,uploaded,6 GB total data pack with JioHotstar Mobile.
+jio-79,Jio,JioHotstar Data 79,79,30,,3,,No Voice,FALSE,JioHotstar Mobile,TRUE,JioHotstar,uploaded,3 GB total data pack with JioHotstar Mobile.
+jio-500,Jio,Jio Mega Content 500,500,28,2,,,Unlimited,TRUE,11+ OTTs Bundle,TRUE,Entertainment,uploaded,Mega Content plan with 2 GB/day and 11+ OTT platforms.
+jio-175,Jio,Jio Entertainment 175,175,28,,10,,No Voice,FALSE,10 OTTs Bundle,TRUE,Entertainment,uploaded,Data only pack with 10 GB total + 10 bundled OTT channels.
+jio-495,Jio,Jio Youth & Gaming 495,495,28,2,,,Unlimited,TRUE,Gaming Partner Benefits,TRUE,Youth & Gaming,uploaded,Gaming-focused pack with 2 GB/day for 28 days.
+jio-151,Jio,Jio 5G Upgrade 151,151,28,,9,,Active Plan Required,TRUE,,TRUE,True Unlimited Upgrade,uploaded,Unlimited 5G Data upgrade + 9 GB booster.
+jio-101,Jio,Jio 5G Upgrade 101,101,28,,6,,Active Plan Required,TRUE,,TRUE,True Unlimited Upgrade,uploaded,Unlimited 5G Data upgrade + 6 GB booster.
+jio-51,Jio,Jio 5G Upgrade 51,51,28,,3,,Active Plan Required,TRUE,,TRUE,True Unlimited Upgrade,uploaded,Unlimited 5G Data upgrade + 3 GB booster.
+jio-2799,Jio,Jio Annual 2799,2799,365,3,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,Annual Plans,uploaded,Annual 3 GB/day pack with Unlimited voice calls.
+jio-2399,Jio,Jio Annual 2399,2399,365,2,,,Unlimited,TRUE,JioCinema;JioTV,TRUE,Annual Plans,uploaded,Annual 2 GB/day pack with Unlimited voice calls.
+jio-123,Jio,JioPhone 123,123,28,0.5,,,Unlimited,FALSE,JioCinema;JioTV,TRUE,4G Feature Phone Plan,uploaded,Affordable JioPhone pack with 0.5 GB/day data.
+jio-234,Jio,JioPhone 234,234,56,0.5,,,Unlimited,FALSE,JioCinema;JioTV,TRUE,4G Feature Phone Plan,uploaded,JioPhone pack with 0.5 GB/day data for 56 days.
+jio-1234,Jio,JioPhone Annual 1234,1234,336,0.5,,,Unlimited,FALSE,JioCinema;JioTV,TRUE,4G Feature Phone Plan,uploaded,Annual JioPhone pack with 0.5 GB/day data.
+jio-369,Jio,JioPhone 369,369,84,0.5,,,Unlimited,FALSE,JioCinema;JioTV,TRUE,4G Feature Phone Plan,uploaded,JioPhone pack with Voice & Data for 84 days.
+jio-132,Jio,JioPhone Data 132,132,14,,10,,No Voice,FALSE,,TRUE,4G Feature Phone Addon,uploaded,10 GB data booster for feature phones.
+jio-86,Jio,JioPhone Data 86,86,28,,6,,No Voice,FALSE,,TRUE,4G Feature Phone Addon,uploaded,6 GB data booster for feature phones.
+jio-62,Jio,JioPhone Data 62,62,28,,4,,No Voice,FALSE,,TRUE,4G Feature Phone Addon,uploaded,4 GB data booster for feature phones.
+jio-26,Jio,JioPhone Data 26,26,28,,2,,No Voice,FALSE,,TRUE,4G Feature Phone Addon,uploaded,2 GB data booster for feature phones.
+jio-ir-499,Jio,Jio IR Starter 499,499,1,,0.25,,100 Mins Calls,FALSE,,TRUE,International Roaming,uploaded,1 Day IR pack with voice & data.
+jio-ir-2499,Jio,Jio IR Pack 2499,2499,10,,5,,100 Mins/Day,FALSE,,TRUE,International Roaming,uploaded,10 Days IR pack with voice & data.
+jio-ir-3999,Jio,Jio IR Pack 3999,3999,30,,10,,200 Mins,FALSE,,TRUE,International Roaming,uploaded,30 Days IR pack with voice & data.
+jio-ir-4999,Jio,Jio IR Pack 4999,4999,30,,15,,250 Mins,FALSE,,TRUE,International Roaming,uploaded,30 Days premium IR pack with voice & data.
+jio-ir-5999,Jio,Jio IR Pack 5999,5999,30,,20,,300 Mins,FALSE,,TRUE,International Roaming,uploaded,30 Days supreme IR pack with voice & data.
+jio-ir-2799,Jio,Jio IR Annual 2799,2799,365,,30,,Unlimited,FALSE,,TRUE,International Roaming,uploaded,Annual International Roaming pack.
+jio-ird-5899,Jio,Jio IR Data 5899,5899,21,,10,,No Voice,FALSE,,TRUE,International Roaming,uploaded,21 Days data-only IR pack with 10 GB.
+jio-ird-4499,Jio,Jio IR Data 4499,4499,14,,8,,No Voice,FALSE,,TRUE,International Roaming,uploaded,14 Days data-only IR pack with 8 GB.
+jio-ird-2999,Jio,Jio IR Data 2999,2999,7,,5,,No Voice,FALSE,,TRUE,International Roaming,uploaded,7 Days data-only IR pack with 5 GB.
+jio-ird-999,Jio,Jio IR Data 999,999,14,,2,,No Voice,FALSE,,TRUE,International Roaming,uploaded,14 Days data-only IR pack with 2 GB.
+jio-ird-599,Jio,Jio IR Data 599,599,7,,1,,No Voice,FALSE,,TRUE,International Roaming,uploaded,7 Days data-only IR pack with 1 GB.
+jio-top-10,Jio,Jio Talktime 10,10,365,,0,,₹7.47 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+jio-top-20,Jio,Jio Talktime 20,20,365,,0,,₹14.95 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+jio-top-50,Jio,Jio Talktime 50,50,365,,0,,₹39.37 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+jio-top-1000,Jio,Jio Talktime 1000,1000,365,,0,,₹844.46 Talktime,FALSE,,TRUE,Top-up,uploaded,High-value Talktime Top-Up voucher.
+vi-399,Vi,Vi Nonstop Hero 399,399,28,1.5,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data + JioHotstar Mobile for 28 Days.
+vi-419,Vi,Vi Nonstop Hero 419,419,28,1.5,,,Unlimited,TRUE,SonyLIV;ZEE5;19 OTTs Combo,TRUE,Hero Unlimited,uploaded,"Unlimited 5G/4G Data + ZEE5, SonyLIV & 19 OTTs combo."
+vi-365,Vi,Vi Nonstop Hero 365,365,28,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data + Vi Movies & TV access.
+vi-379,Vi,Vi Nonstop Hero 379,379,30,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 1 month + Vi Movies & TV.
+vi-408,Vi,Vi Nonstop Hero 408,408,28,2,,,Unlimited,TRUE,SonyLIV Mobile,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data + SonyLIV Mobile for 28 Days.
+vi-670,Vi,Vi Nonstop Hero 670,670,56,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data + Vi Movies & TV for 56 Days.
+vi-1005,Vi,Vi Nonstop Hero 1005,1005,84,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 84 Days + Vi Movies & TV.
+vi-1599,Vi,Vi Nonstop Hero 1599,1599,84,,,,Unlimited,TRUE,Netflix,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 84 Days + Netflix bundle.
+vi-2099,Vi,Vi Nonstop Hero 2099,2099,180,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 180 Days + Vi Movies & TV.
+vi-3749,Vi,Vi Nonstop Hero 3749,3749,365,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data annual plan with Vi Movies & TV.
+vi-580,Vi,Vi Nonstop Hero 580,580,48,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 48 Days + Vi Movies & TV.
+vi-860,Vi,Vi Nonstop Hero 860,860,72,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 72 Days + Vi Movies & TV.
+vi-1750,Vi,Vi Nonstop Hero 1750,1750,150,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 150 Days + Vi Movies & TV.
+vi-3050,Vi,Vi Nonstop Hero 3050,3050,290,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Unlimited 5G/4G Data for 290 Days + Vi Movies & TV.
+vi-349,Vi,Vi Hero 349,349,28,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,"1.5 GB/day with Binge All Night, Weekend Rollover and Vi Movies & TV."
+vi-579,Vi,Vi Hero 579,579,56,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,1.5 GB/day for 56 days + Rollover data.
+vi-666,Vi,Vi Hero 666,666,64,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,1.5 GB/day for 64 days + Rollover data.
+vi-799,Vi,Vi Hero 799,799,77,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,1.5 GB/day for 77 days + Rollover data.
+vi-859,Vi,Vi Hero 859,859,84,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,1.5 GB/day for 84 days + Rollover data.
+vi-1749,Vi,Vi Hero 1749,1749,180,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,1.5 GB/day for 180 days + Rollover data.
+vi-3499,Vi,Vi Hero 3499,3499,365,1.5,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Annual 1.5 GB/day pack with Rollover data.
+vi-3599,Vi,Vi Hero 3599,3599,365,2,,,Unlimited,TRUE,Vi Movies & TV,TRUE,Hero Unlimited,uploaded,Annual 2 GB/day pack with Rollover data.
+vi-1198,Vi,Vi Netflix 1198,1198,70,2,,,Unlimited,TRUE,Netflix,TRUE,Truly Unlimited,uploaded,2 GB/day with Netflix for 70 days.
+vi-696,Vi,Vi Prime Lite 696,696,56,2,,,Unlimited,TRUE,Amazon Prime Lite,TRUE,Truly Unlimited,uploaded,2 GB/day with Amazon Prime Lite for 56 days.
+vi-996,Vi,Vi Prime Lite 996,996,84,2,,,Unlimited,TRUE,Amazon Prime Lite,TRUE,Truly Unlimited,uploaded,2 GB/day with Amazon Prime Lite for 84 days.
+vi-994,Vi,Vi JioHotstar 994,994,84,2,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,Truly Unlimited,uploaded,2 GB/day with JioHotstar Mobile for 84 days.
+vi-3699,Vi,Vi JioHotstar 3699,3699,365,2,,,Unlimited,TRUE,1 Year JioHotstar,TRUE,Truly Unlimited,uploaded,2 GB/day with 1 Year JioHotstar Mobile.
+vi-3999,Vi,Vi Premium OTT Annual 3999,3999,365,2,,,Unlimited,TRUE,1 Year JioHotstar;Amazon Prime Lite,TRUE,Truly Unlimited,uploaded,2 GB/day with JioHotstar and Amazon Prime Lite.
+vi-795,Vi,Vi ZEE5 SonyLIV 795,795,56,3,,,Unlimited,TRUE,ZEE5;SonyLIV,TRUE,Truly Unlimited,uploaded,3 GB/day with SonyLIV and ZEE5 for 56 days.
+vi-979,Vi,Vi ZEE5 SonyLIV 979,979,84,2,,,Unlimited,TRUE,ZEE5;SonyLIV,TRUE,Truly Unlimited,uploaded,2 GB/day with SonyLIV and ZEE5 for 84 days.
+vi-2399,Vi,Vi ZEE5 SonyLIV 2399,2399,180,1.5,,,Unlimited,TRUE,ZEE5;SonyLIV,TRUE,Truly Unlimited,uploaded,1.5 GB/day with SonyLIV and ZEE5 for 180 days.
+vi-4999,Vi,Vi Ultimate OTT 4999,4999,365,2,,,Unlimited,TRUE,20+ OTTs Bundle,TRUE,Truly Unlimited,uploaded,Annual pack with 20+ premium OTT subscriptions.
+vi-3799,Vi,Vi Prime Video 3799,3799,365,2,,,Unlimited,TRUE,Prime Video Mobile,TRUE,Truly Unlimited,uploaded,2 GB/day + 1 Year Amazon Prime Video Mobile.
+vi-179,Vi,Vi Unlimited 179,179,24,,1,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 1 GB data.
+vi-189,Vi,Vi Unlimited 189,189,26,,1,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 1 GB data.
+vi-199,Vi,Vi Unlimited 199,199,28,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 2 GB data.
+vi-209,Vi,Vi Unlimited 209,209,28,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 2 GB data.
+vi-218,Vi,Vi Unlimited 218,218,30,,3,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1 Month plan with 3 GB total data.
+vi-239,Vi,Vi Unlimited 239,239,28,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Standard voice pack with 2 GB data.
+vi-299,Vi,Vi Unlimited 299,299,28,1,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Standard 1 GB/day daily data pack.
+vi-345,Vi,Vi Unlimited 345,345,30,,25,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,30 Days pack with 25 GB total data.
+vi-369,Vi,Vi Unlimited 369,369,56,,4,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,56 Days pack with 4 GB total data.
+vi-548,Vi,Vi Unlimited 548,548,84,,7,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,84 Days pack with 7 GB total data.
+vi-625,Vi,Vi Unlimited 625,625,60,,50,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,60 Days pack with 50 GB total data.
+vi-1149,Vi,Vi Unlimited 1149,1149,180,,15,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,180 Days pack with 15 GB total data.
+vi-2249,Vi,Vi Unlimited 2249,2249,365,,30,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Annual pack with 30 GB total data.
+vi-340,Vi,Vi Unlimited 340,340,28,1,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1 GB/day daily data pack.
+vi-470,Vi,Vi Voice 470,470,84,,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Unlimited voice calls for 84 Days.
+vi-479,Vi,Vi Unlimited 479,479,48,1,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1 GB/day daily data for 48 Days.
+vi-489,Vi,Vi Unlimited 489,489,78,,6,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,78 Days pack with 6 GB total data.
+vi-add-175,Vi,Vi Movies Premium 175,175,28,,,,No Voice,FALSE,20 OTTs Bundle,TRUE,OTT Add-On,uploaded,20 OTTs via Vi Movies & TV.
+vi-add-248,Vi,Vi Movies Mega 248,248,28,,,,No Voice,FALSE,JioHotstar;SonyLIV;ZEE5;20 OTTs Bundle,TRUE,OTT Add-On,uploaded,JioHotstar + SonyLIV + ZEE5 + 20 OTTs bundle.
+vi-add-154,Vi,Vi Movies Ultimate 154,154,28,,,,No Voice,FALSE,29 OTTs Bundle,TRUE,OTT Add-On,uploaded,29 OTTs via Vi Movies & TV.
+vi-add-202,Vi,Vi Movies Lite 202,202,28,,,,No Voice,FALSE,17 OTTs Bundle,TRUE,OTT Add-On,uploaded,17 OTTs via Vi Movies & TV.
+vi-add-101,Vi,Vi JioHotstar 101,101,28,,,,No Voice,FALSE,JioHotstar Mobile,TRUE,OTT Add-On,uploaded,28 Days JioHotstar Mobile add-on.
+vi-add-169,Vi,Vi JioHotstar 169,169,84,,,,No Voice,FALSE,JioHotstar Mobile,TRUE,OTT Add-On,uploaded,84 Days JioHotstar Mobile add-on.
+vi-add-239,Vi,Vi JioHotstar 239,239,30,,,,No Voice,FALSE,JioHotstar Mobile,TRUE,OTT Add-On,uploaded,JioHotstar Mobile standalone voucher.
+vi-add-95,Vi,Vi SonyLIV 95,95,28,,,,No Voice,FALSE,SonyLIV Mobile,TRUE,OTT Add-On,uploaded,SonyLIV Mobile standalone voucher.
+vi-top-10,Vi,Vi TopUp 10,10,365,,,,₹7.47 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+vi-top-20,Vi,Vi TopUp 20,20,365,,,,₹14.95 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+vi-top-50,Vi,Vi TopUp 50,50,365,,,,₹39.37 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+vi-top-100,Vi,Vi TopUp 100,100,365,,,,₹81.75 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+vi-top-500,Vi,Vi TopUp 500,500,365,,,,₹423.75 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+vi-top-1000,Vi,Vi TopUp 1000,1000,365,,,,₹847.46 Talktime,FALSE,,TRUE,Top-up,uploaded,Talktime Top-Up voucher.
+airtel-349,Airtel,Airtel Truly Unlimited 349,349,28,2,,,Unlimited,TRUE,Airtel Xstream Play,TRUE,Truly Unlimited,uploaded,2 GB/day + Unlimited 5G Data.
+airtel-379,Airtel,Airtel Truly Unlimited 379,379,30,2,,,Unlimited,TRUE,Google One,TRUE,Truly Unlimited,uploaded,2 GB/day + Google One subscription.
+airtel-399,Airtel,Airtel JioHotstar 399,399,28,2.5,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,Truly Unlimited,uploaded,2.5 GB/day + JioHotstar Mobile.
+airtel-409,Airtel,Airtel Aha Premium 409,409,28,2.5,,,Unlimited,TRUE,Aha Premium;20+ OTTs Bundle,TRUE,Truly Unlimited,uploaded,2.5 GB/day + Aha Premium + 20+ OTT channels.
+airtel-429,Airtel,Airtel Truly Unlimited 429,429,30,2.5,,,Unlimited,TRUE,Airtel Xstream Play,TRUE,Truly Unlimited,uploaded,2.5 GB/day + Unlimited 5G Data for 1 month.
+airtel-449,Airtel,Airtel JioHotstar 449,449,28,4,,,Unlimited,TRUE,JioHotstar Mobile,TRUE,Truly Unlimited,uploaded,Heavy 4 GB/day daily data + JioHotstar Mobile.
+airtel-649,Airtel,Airtel Truly Unlimited 649,649,56,2,,,Unlimited,TRUE,Airtel Xstream Play,TRUE,Truly Unlimited,uploaded,2 GB/day + Unlimited 5G Data for 56 Days.
+airtel-838,Airtel,Airtel Amazon Prime 838,838,56,3,,,Unlimited,TRUE,Amazon Prime Lite;SonyLIV;20+ OTTs Bundle,TRUE,Truly Unlimited,uploaded,Heavy 3 GB/day + Prime Lite + SonyLIV + 20 OTTs via Xstream Play.
+airtel-979,Airtel,Airtel Aha Premium 979,979,84,2,,,Unlimited,TRUE,Aha Premium;20+ OTTs Bundle;SonyLIV,TRUE,Truly Unlimited,uploaded,2 GB/day for 84 Days + Aha Premium + 20+ OTTs via Xstream Play.
+airtel-1029,Airtel,Airtel JioHotstar 1029,1029,84,2,,,Unlimited,TRUE,JioHotstar Mobile (3M),TRUE,Truly Unlimited,uploaded,2 GB/day + JioHotstar Mobile for 3 months.
+airtel-1199,Airtel,Airtel Amazon Prime 1199,1199,84,2.5,,,Unlimited,TRUE,Amazon Prime Lite;SonyLIV;20+ OTTs Bundle,TRUE,Truly Unlimited,uploaded,2.5 GB/day + Amazon Prime Lite + SonyLIV + 20 OTTs via Xstream Play.
+airtel-1729,Airtel,Airtel Netflix 1729,1729,84,2,,,Unlimited,TRUE,Netflix Basic,TRUE,Truly Unlimited,uploaded,2 GB/day for 84 Days + Netflix Basic subscription.
+airtel-1798,Airtel,Airtel Netflix 1798,1798,84,3,,,Unlimited,TRUE,Netflix Basic,TRUE,Truly Unlimited,uploaded,Heavy 3 GB/day for 84 Days + Netflix Basic.
+airtel-3599,Airtel,Airtel Adobe Premium 3599,3599,365,2,,,Unlimited,TRUE,Adobe Express Premium,TRUE,Truly Unlimited,uploaded,Annual 2 GB/day pack + Adobe Express Premium + Unlimited 5G Data.
+airtel-3999,Airtel,Airtel JioHotstar 3999,3999,365,2.5,,,Unlimited,TRUE,JioHotstar Mobile (3M),TRUE,Truly Unlimited,uploaded,Annual 2.5 GB/day pack + JioHotstar Mobile (3M) + Unlimited 5G Data.
+airtel-net-279,Airtel,Airtel Netflix 279,279,30,,1,,Unlimited,FALSE,Netflix Basic,TRUE,Netflix Vouchers,uploaded,Netflix Basic + 1 GB data for 1 month.
+airtel-net-598,Airtel,Airtel Netflix 598,598,28,2,,,Unlimited,TRUE,Netflix Basic,TRUE,Netflix Vouchers,uploaded,2 GB/day + Netflix Basic for 28 Days.
+airtel-jh-100,Airtel,Airtel JioHotstar 100,100,30,,6,,No Voice,FALSE,JioHotstar Mobile (1M),TRUE,JioHotstar,uploaded,6 GB total data pack + JioHotstar Mobile (1M).
+airtel-xstream-195,Airtel,Airtel Xstream 195,195,30,,12,,No Voice,FALSE,Aha Premium;SonyLIV;Airtel Xstream Play,TRUE,Airtel Xstream,uploaded,12 GB total data pack + Aha Premium + SonyLIV + Xstream Play.
+airtel-ann-1849,Airtel,Airtel Annual 1849,1849,365,,24,,Unlimited Calls + 3600 SMS,FALSE,,TRUE,Annual Plans,uploaded,Budget Annual voice voucher + 24 GB total data.
+airtel-ann-2249,Airtel,Airtel Annual 2249,2249,365,,30,,Unlimited,FALSE,,TRUE,Annual Plans,uploaded,Annual pack with 30 GB total data.
+airtel-ann-4999,Airtel,Airtel NRI Annual 4999,4999,365,2.5,,,Unlimited,TRUE,NRI Benefits (7GB IR Data),TRUE,NRI Plan,uploaded,Premium NRI Annual plan. 7GB IR data + Unlimited calls + 2.5GB/day in India.
+airtel-199,Airtel,Airtel Unlimited 199,199,28,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 2 GB data.
+airtel-219,Airtel,Airtel Unlimited 219,219,30,,2,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Budget Unlimited voice pack with 2 GB data for 1 month.
+airtel-299,Airtel,Airtel Unlimited 299,299,28,1,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,Standard 1 GB/day daily data pack.
+airtel-319,Airtel,Airtel Unlimited 319,319,30,1.5,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1.5 GB/day daily data for 1 month.
+airtel-355,Airtel,Airtel Unlimited 355,355,30,,25,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,30 Days pack with 25 GB total data.
+airtel-469,Airtel,Airtel Voice 469,469,84,,,,Unlimited Calls + 900 SMS,FALSE,,TRUE,Truly Unlimited,uploaded,Voice-focused pack for 84 Days.
+airtel-489,Airtel,Airtel Unlimited 489,489,77,,6,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,77 Days pack with 6 GB total data.
+airtel-548,Airtel,Airtel Unlimited 548,548,84,,7,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,84 Days pack with 7 GB total data.
+airtel-579,Airtel,Airtel Unlimited 579,579,56,1.5,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1.5 GB/day daily data for 56 Days.
+airtel-609,Airtel,Airtel Unlimited 609,609,30,,60,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,60 GB total data pack for 1 month.
+airtel-619,Airtel,Airtel Unlimited 619,619,60,1.5,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1.5 GB/day daily data for 60 Days.
+airtel-899,Airtel,Airtel Unlimited 899,899,84,1.5,,,Unlimited,FALSE,,TRUE,Truly Unlimited,uploaded,1.5 GB/day daily data for 84 Days.
+airtel-data-22,Airtel,Airtel Data 22,22,1,,1,,No Voice,FALSE,,TRUE,Data Pack,uploaded,1 GB data booster for 1 Day.
+airtel-data-26,Airtel,Airtel Data 26,26,1,,1.5,,No Voice,FALSE,,TRUE,Data Pack,uploaded,1.5 GB data booster for 1 Day.
+airtel-data-33,Airtel,Airtel Data 33,33,1,,2,,No Voice,FALSE,,TRUE,Data Pack,uploaded,2 GB data booster for 1 Day.
+airtel-data-39,Airtel,Airtel Data 39,39,3,3,,,No Voice,FALSE,,TRUE,Data Pack,uploaded,3 GB/day data pack for 3 Days.
+airtel-data-49,Airtel,Airtel Data 49,49,1,,,,No Voice,TRUE,,TRUE,Data Pack,uploaded,Unlimited Data booster for 1 Day.
+airtel-data-77,Airtel,Airtel Data 77,77,7,,5,,No Voice,FALSE,,TRUE,Data Pack,uploaded,5 GB data booster for 7 Days.
+airtel-data-99,Airtel,Airtel Data 99,99,2,,,,No Voice,TRUE,,TRUE,Data Pack,uploaded,Unlimited Data booster for 2 Days.
+airtel-data-100,Airtel,Airtel Data 100,100,30,,6,,No Voice,FALSE,,TRUE,Data Pack,uploaded,6 GB data booster for 30 Days.
+airtel-data-161,Airtel,Airtel Data 161,161,30,,12,,No Voice,FALSE,,TRUE,Data Pack,uploaded,12 GB data booster for 30 Days.
+airtel-data-195,Airtel,Airtel Data 195,195,30,,12,,No Voice,FALSE,,TRUE,Data Pack,uploaded,12 GB data booster for 30 Days.
+airtel-data-361,Airtel,Airtel Data 361,361,90,,50,,No Voice,FALSE,,TRUE,Data Pack,uploaded,50 GB data booster for 90 Days.
+airtel-ir-118,Airtel,Airtel IR Activation 118,118,365,,,,IR Activation Only,FALSE,,TRUE,International Roaming,uploaded,IR Activation + Free Incoming SMS.
+airtel-ir-698,Airtel,Airtel IR 698,698,1,,1,,100 Mins Calls,FALSE,,TRUE,International Roaming,uploaded,1 GB data + 100 Mins + 10 SMS.
+airtel-ir-699,Airtel,Airtel IR Data 699,699,1,,2,,No Voice,FALSE,,TRUE,International Roaming,uploaded,2 GB IR Data pack.
+airtel-ir-898,Airtel,Airtel IR 898,898,5,,4,,150 Mins Calls,FALSE,,TRUE,International Roaming,uploaded,4 GB data + 150 Mins + 20 SMS.
+airtel-ir-1198,Airtel,Airtel IR 1198,1198,10,,6,,200 Mins Calls,FALSE,,TRUE,International Roaming,uploaded,6 GB data + 200 Mins + 20 SMS.
+airtel-ir-2998,Airtel,Airtel IR 2998,2998,30,,10,,300 Mins Calls,FALSE,,TRUE,International Roaming,uploaded,10 GB data + 300 Mins + 20 SMS.
+airtel-if-196,Airtel,Airtel In-Flight 196,196,1,,0.25,,100 Mins,FALSE,,TRUE,In-Flight Roaming,uploaded,250 MB + 100 Mins + 100 SMS in-flight.
+airtel-if-295,Airtel,Airtel In-Flight 295,295,1,,0.5,,100 Mins,FALSE,,TRUE,In-Flight Roaming,uploaded,500 MB + 100 Mins + 100 SMS in-flight.
+airtel-if-595,Airtel,Airtel In-Flight 595,595,1,,1,,100 Mins,FALSE,,TRUE,In-Flight Roaming,uploaded,1 GB + 100 Mins + 100 SMS in-flight.
+airtel-top-10,Airtel,Airtel TopUp 10,10,365,,,,₹7.47 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+airtel-top-120,Airtel,Airtel TopUp 120,120,365,,,,₹98.69 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+airtel-top-500,Airtel,Airtel TopUp 500,500,365,,,,₹423.73 Talktime,FALSE,,TRUE,Top-up,uploaded,Standard Talktime Top-Up voucher.
+airtel-top-1000,Airtel,Airtel TopUp 1000,1000,365,,,,₹847.46 Talktime,FALSE,,TRUE,Top-up,uploaded,High-value Talktime Top-Up voucher.
+airtel-top-5000,Airtel,Airtel TopUp 5000,5000,365,,,,₹4237.29 Talktime,FALSE,,TRUE,Top-up,uploaded,Premium Talktime Top-Up voucher.

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TeleAI Abstract</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 28mm 25mm 25mm 25mm;
+  }
+  
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    line-height: 1.38;
+    color: #111;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page {
+    box-sizing: border-box;
+  }
+
+  .page-break {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  h1.abstract-heading {
+    text-align: center;
+    font-size: 18pt;
+    font-weight: bold;
+    margin: 0 0 16pt 0;
+    letter-spacing: 0.2px;
+  }
+
+  h2.paper-title {
+    text-align: center;
+    font-size: 13.5pt;
+    font-weight: bold;
+    line-height: 1.35;
+    margin: 0 0 18pt 0;
+    padding: 0 10px;
+  }
+
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 13pt 0;
+    text-indent: 0;
+  }
+
+  .meta-section {
+    margin-top: 14pt;
+    margin-bottom: 12pt;
+    text-align: justify;
+    line-height: 1.35;
+  }
+
+  .meta-title {
+    font-weight: bold;
+  }
+
+  .student-list {
+    margin-top: 26pt;
+    line-height: 1.45;
+    font-size: 10.5pt;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <h1 class="abstract-heading">Abstract</h1>
+  <h2 class="paper-title">TeleAI: A Grounded Edge-Cloud Dual-LLM Architecture for Explainable Telecom Plan Recommendation and Counterfactual Simulation</h2>
+  
+  <p>Selecting an optimal prepaid mobile plan in competitive telecommunication markets is a high-dimensional and non-trivial decision problem. In markets such as India, with over 1.15 billion active wireless connections, major telecom providers—principally Reliance Jio, Bharti Airtel, Vodafone Idea (Vi), and BSNL—offer hundreds of overlapping recharge options featuring heterogeneous pricing, arbitrary validity windows, daily high-speed bandwidth limits, and fragmented Over-The-Top (OTT) entertainment bundles. In practice, finding the best plan that satisfies specific budget, data, and validity needs is tedious and overwhelming for subscribers. Generic conversational AI assistants and Large Language Models (LLMs) are fundamentally unsuitable for direct plan selection: because generative models are prone to hallucination, they routinely fabricate non-existent tariff prices, suggest outdated bundles, or invent incompatible validity periods, directly degrading user trust and causing financial misdirection.</p>
+
+  <p>A review of existing work shows that Conversational Recommender Systems (CRSs) facilitate multi-turn preference elicitation (Jannach et al., 2021), that grounding generative models in verified external knowledge prevents factual hallucination (Lewis et al., 2020), that contrastive explanations significantly increase user satisfaction and system transparency (Miller, 2019), and that lightweight quantized models enable efficient edge inference on standard consumer hardware (Meta AI, 2024). However, surveyed telecom recommendation tools published between 2020 and 2024 focus predominantly on static rule-based filters or unconstrained end-to-end LLM chatbots, leaving four critical research gaps: no existing system provides conversational natural-language understanding while strictly preventing generative tariff hallucination; standard chatbots offer arbitrary suggestions without mathematical multi-attribute utility optimization; existing solutions provide black-box recommendations lacking contrastive &ldquo;Why This / Why Not&rdquo; justification; and none offer real-time counterfactual simulation allowing users to interactively test sensitivity to parameter changes.</p>
+
+  <p>To resolve these challenges, this project presents TeleAI, a grounded dual-LLM architecture that strictly decouples linguistic preference extraction from deterministic catalog evaluation and contrastive explanation generation. User queries entered in natural conversational language are first parsed by an edge-deployed Small Language Model (Llama 3.2 3B served locally via Ollama), which enforces strict JSON grammar to output a validated multi-dimensional preference vector (budget ceiling, daily bandwidth, validity window, OTT requirements, and operator preferences). This vector is ingested by a deterministic Multi-Attribute Utility Theory (MAUT) recommendation engine executing hard constraint boundary invalidation over an indexed catalog of 212 verified plans across Jio, Airtel, Vi, and BSNL. Plans violating hard constraints are eliminated immediately, while eligible candidates are scored via dynamically weighted utility functions across budget fit, bandwidth efficiency, validity alignment, and bonus perks, isolating the mathematically optimal Top-3 candidate plans in under 3 milliseconds.</p>
+</div>
+
+<div class="page page-break">
+  <p>The system is implemented as a decoupled, modern full-stack web application: a reactive Next.js and TypeScript frontend delivers an intuitive conversational interface alongside an interactive counterfactual &ldquo;What-If&rdquo; simulation workbench, while the backend orchestrates the local Llama 3.2 inference runtime, the deterministic MAUT scoring engine, and an asynchronous cloud analyst model (GPT-OSS 20B). Rather than generating recommendations, the cloud model is exclusively tasked with synthesizing structured contrastive explanations that articulate why the Rank-1 plan was chosen over Rank-2 and Rank-3. To guarantee uninterrupted reliability, a built-in deterministic fallback engine synthesizes rule-grounded contrastive rationales directly from utility score deltas whenever cloud connectivity is unavailable or latency exceeds operational thresholds.</p>
+
+  <p>Implementation proceeded across four structured phases. The data engineering phase established an indexed catalog schema covering 212 active prepaid recharge plans scraped and verified across all four major Indian operators. The edge vectorization and scoring phase developed the grammar-constrained prompt engineering pipeline for Llama 3.2 alongside the vectorized MAUT scoring algorithms. The application layer phase built the reactive Next.js interface, integrating conversational input, recommendation card rendering, and client-side reactive state management. Finally, the testing and hardening phase validated the architecture across four representative user scenarios—ranging from multi-constraint explicit queries to under-specified and approximate budget requests—benchmarking JSON extraction fidelity, deterministic scoring latency (&lt; 3 ms), in-situ slider sensitivity recalculation (&lt; 15 ms), and zero-hallucination compliance.</p>
+
+  <p>The resulting prototype demonstrates that decoupling conversational understanding from factual decision logic eliminates generative tariff hallucinations while maintaining fluid natural language interaction. By grounding recommendations in an auditable catalog and providing contrastive explanations alongside real-time counterfactual exploration, TeleAI empowers subscribers to make informed, mathematically validated telecommunication decisions. Planned extensions include real-time web-scraping pipelines for live tariff synchronization, multilingual speech-to-text querying for regional mobile users, and personalized usage-pattern integration via device telemetry.</p>
+
+  <div class="meta-section">
+    <span class="meta-title">Keywords:</span> Conversational AI, Recommender Systems, Dual-LLM Architecture, Grounded Generation, Telecom Plan Recommendation, Contrastive Explainability, Counterfactual Simulation, Llama 3.2
+  </div>
+
+  <div class="meta-section">
+    <span class="meta-title">References:</span> [1] Lewis et al., &ldquo;Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,&rdquo; NeurIPS, 2020. [2] Jannach et al., &ldquo;A Survey on Conversational Recommender Systems,&rdquo; ACM Computing Surveys, 2021. [3] Miller, &ldquo;Explanation in Artificial Intelligence: Insights from the Social Sciences,&rdquo; Artificial Intelligence, 2019.
+  </div>
+
+  <div class="student-list">
+    DARSHAN D M (ENG23CS0544)<br>
+    YASHWANTH N K (ENG23CS0503)<br>
+    DISHANTH D (ENG23CS0551)<br>
+    ESHWAR S REDDY (ENG23CS0554)
+  </div>
+</div>
+
+</body>
+</html>
